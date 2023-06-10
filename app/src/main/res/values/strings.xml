@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ReCipeFoodApp</string>
+    <string name="api_key">3a8d50587817494691d9694a4fc6c4f0</string>
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>snack</item>
+        <item>drick</item>
+    </string-array>
+</resources>
